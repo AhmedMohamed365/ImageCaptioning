@@ -46,3 +46,4 @@ objects = [
 # Generate and print caption
 caption = generate_caption(objects)
 print("Generated Caption:", caption)
+# The cat is to the right of the dog
